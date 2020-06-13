@@ -1,40 +1,20 @@
 /* rowanlynch.com stylesheet */
 
+img {
+		}
+
 body {
-	margin-left: 200px;
-	margin-right: 300px;
-	text-align: justify;
 		}
 
 h1 {
-	font-size:20px
+	font-size:14px
 		} 
-
-img {
-	margin-left: 200px;
-	margin-right: 80px;
-		}
 
 p {
 	font-size:14px;
 }
 
-.header {
-		position: fixed;
-		top:0;
-		left:0;
-		width: 100%;
-		overflow: scroll;
-		padding-left: 50px;
-		padding-top: 10px;
-		padding-bottom: 0px;
-		background: #ffffff;
-			}
 
 .content {
-		font-size: 16px;
-		padding-left: 100px;
-		padding-right: 40px;
-		padding-top: 200px;
-		text-align: center;
+		font-size: 14px;
 			}
