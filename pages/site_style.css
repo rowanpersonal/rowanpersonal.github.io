@@ -1,7 +1,8 @@
 /* rowanlynch.com stylesheet */
 
 img {
-		}
+		max-width: 500px;
+		max-height: 100%;}
 
 body {
 		}
@@ -21,3 +22,18 @@ li {
 .content {
 		font-size: 14px;
 			}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  background-color: #ffffff;
+  padding: 10px;
+}
+
+.grid-item {
+  background-color: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 16px;
+  text-align: center;
+}
