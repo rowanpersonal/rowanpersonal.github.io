@@ -43,4 +43,8 @@ li {
  {font-size: 14px;
  padding: 30px;
  text-align: center;
+ position: fixed;
+ background: #ffffff;
+ overflow: scroll;
+ width: 100%;
  }
