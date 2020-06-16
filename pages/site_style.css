@@ -29,6 +29,7 @@ li {
   grid-template-columns: 500px 500px;
   background-color: #ffffff;
   padding: 10px;
+  padding-top: 50px;
 }
 
 .grid-item {
