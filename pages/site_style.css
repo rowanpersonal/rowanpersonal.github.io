@@ -20,6 +20,15 @@ li {
 	font-size: 14px;
 }
 
+.header
+ {font-size: 14px;
+ padding: 30px;
+ text-align: center;
+ position: fixed;
+ overflow: scroll;
+ width: 100%;
+ }
+
 .content {
 		font-size: 14px;
 			}
@@ -40,11 +49,3 @@ li {
   text-align: center;
 }
 
-.header
- {font-size: 14px;
- padding: 30px;
- text-align: center;
- position: fixed;
- overflow: scroll;
- width: 100%;
- }
