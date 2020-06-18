@@ -1,9 +1,7 @@
 /* rowanlynch.com stylesheet */
 
 img {
-	max-width: 500px;
-	max-height: 100%;
-}
+	}
 
 body {
 		}
@@ -22,7 +20,7 @@ li {
 
 .header
  {font-size: 14px;
- padding: 30px;
+ padding-top: 30px;
  text-align: center;
  position: fixed;
  overflow: scroll;
@@ -30,7 +28,7 @@ li {
 
 .content {
 	font-size: 14px;
-	padding-top: 100px;
+	padding-top: 120px;
 	text-align: center;
 			}
 
