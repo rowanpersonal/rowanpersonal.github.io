@@ -6,6 +6,8 @@ img {
 }
 
 body {
+	border-left: 200px;
+	border-right: 200px;
 		}
 
 h1 {
