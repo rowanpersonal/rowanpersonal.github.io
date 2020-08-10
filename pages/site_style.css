@@ -41,8 +41,8 @@ li {
   grid-template-columns: auto auto;
   background-color: #ffffff;
   padding-top: 100px;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 200px;
+  padding-right: 200px;
 }
 
 .grid-item {
