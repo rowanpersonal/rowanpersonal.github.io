@@ -33,7 +33,6 @@ li {
 .content {
 	font-size: 14px;
 	padding-top: 120px;
-	padding-left: 600px;
 	text-align: center;
 			}
 
@@ -42,6 +41,7 @@ li {
   grid-template-columns: auto auto;
   background-color: #ffffff;
   padding-top: 100px;
+  padding-left: 100px;
 }
 
 .grid-item {
