@@ -19,12 +19,6 @@ li {
 	font-size: 14px;
 }
 
-header {
-   position: fixed;
- overflow: scroll;
- width: 100%;
-}
-
 .header
  {font-size: 14px;
  text-align: center;
@@ -32,20 +26,19 @@ header {
  overflow: scroll;
  width: 100%;
 
-padding: 40px;
-margin-left: 400px;
-margin-right: 400px;
-margin-bottom: 0px;
+  padding-top: 20px;
+  padding-left: 200px;
+  padding-right: 200px;
  }
 
 .content {
 	font-size: 14px;
 	text-align: center;
 
-padding: 40px;
-margin-left: 400px;
-margin-right: 400px;
-margin-bottom: 0px;
+  padding-top: 40px;
+  padding-left: 200px;
+  padding-right: 200px;
+
 			}
 
 .grid-container {
