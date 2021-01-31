@@ -25,6 +25,7 @@ li {
  position: fixed;
  overflow: scroll;
  width: 100%;
+
 padding: 40px;
 margin-left: 400px;
 margin-right: 400px;
@@ -34,7 +35,8 @@ margin-bottom: 0px;
 .content {
 	font-size: 14px;
 	text-align: center;
-  padding: 40px;
+
+padding: 40px;
 margin-left: 400px;
 margin-right: 400px;
 margin-bottom: 0px;
