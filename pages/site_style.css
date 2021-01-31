@@ -17,8 +17,7 @@ li {
 }
 
 .header
- {font-size: 40px;
-   position: fixed;
+ {position: fixed;
  overflow: scroll;
 
  width: 100%;
