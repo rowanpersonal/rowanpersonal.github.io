@@ -22,7 +22,7 @@ li {
 
 .header
  {font-size: 14px;
- padding-top: 30px;
+ padding: 30px;
  text-align: center;
  position: fixed;
  overflow: scroll;
@@ -31,7 +31,7 @@ li {
 
 .content {
 	font-size: 14px;
-	padding-top: 120px;
+	padding: 120px;
 	text-align: center;
   margin-left: 400px;
   margin-right: 400px;
