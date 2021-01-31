@@ -21,7 +21,8 @@ li {
  position: fixed;
  overflow: scroll;
  margin: auto;
-  padding-top: 20px;
+ width: 60%;
+ padding-top: 20px;
  }
 
 .content {
