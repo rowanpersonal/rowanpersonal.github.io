@@ -18,6 +18,15 @@ li {
 
 .header
  {font-size: 40px;
+   position: fixed;
+ overflow: scroll;
+
+ width: 100%;
+ margin: 0 auto;
+
+ padding: auto;
+ padding-top: 20px;
+text-align: center;
 
  }
 
