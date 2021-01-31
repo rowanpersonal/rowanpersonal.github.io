@@ -10,9 +10,11 @@
 	<title>RL</title>
 </head>
 
+<!--to put header across every page-->
 <body>
-<?php include "headernav.php"; ?> 
 <?php
+    include("headernav.php");
+?>
 
 <div class="content">
 <br>
