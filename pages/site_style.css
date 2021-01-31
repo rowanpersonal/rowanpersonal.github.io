@@ -21,11 +21,8 @@ li {
  text-align: center;
  position: fixed;
  overflow: scroll;
- width: 100%;
 
   padding-top: 20px;
-  padding-left: 200px;
-  padding-right: 200px;
  }
 
 .content {
