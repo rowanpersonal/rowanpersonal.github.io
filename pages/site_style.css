@@ -17,26 +17,24 @@ li {
 }
 
 .header
- {position: fixed;
+ {text-align: center;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+
+  position: fixed;
  overflow: scroll;
-
- width: 100%;
-
-padding-top: 20px;
-text-align: center;
- margin-left: auto;
-    margin-right: auto;
 
  }
 
 .content {
+    text-align: center;
 	font-size: 14px;
-	text-align: center;
+
    width: 100%;
  margin: 0 auto;
-
   padding-top: 40px;
-
 
 			}
 
