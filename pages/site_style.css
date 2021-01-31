@@ -5,7 +5,10 @@ img {
 }
 
 body {
-
+padding: 120px;
+margin-left: 400px;
+margin-right: 400px;
+margin-bottom:200px;
 		}
 
 h1 {
@@ -22,7 +25,6 @@ li {
 
 .header
  {font-size: 14px;
- padding: 30px;
  text-align: center;
  position: fixed;
  overflow: scroll;
@@ -31,10 +33,8 @@ li {
 
 .content {
 	font-size: 14px;
-	padding: 120px;
 	text-align: center;
-  margin-left: 400px;
-  margin-right: 400px;
+
 			}
 
 .grid-container {
