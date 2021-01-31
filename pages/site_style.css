@@ -18,10 +18,9 @@ li {
 
 .header
  {font-size: 14px;
- text-align: center;
  position: fixed;
  overflow: scroll;
-
+ margin: auto;
   padding-top: 20px;
  }
 
