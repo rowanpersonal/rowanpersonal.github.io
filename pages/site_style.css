@@ -38,6 +38,18 @@ position: fixed;
 
 			}
 
+      .contentwr {
+    text-align: left;
+  font-size: 14px;
+
+   width: 100%;
+ margin: 0 auto;
+  padding-top: 120px;
+
+      }
+
+
+
 .grid-container {
   display: grid;
   grid-template-columns: auto auto;
